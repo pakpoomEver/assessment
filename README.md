@@ -6,3 +6,5 @@ pakpoom Evver
 test repository
 
 test push git
+
+test pull
